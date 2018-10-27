@@ -33,14 +33,10 @@ ul {
   cursor: pointer;
 }
 
-.input-bar {
-  width: 484px;
-}
-
 .text-input {
   outline-width: 0px;
   padding: 5px 15px;
-  width: 363px;
+  width: auto;
 }
 
 .buttons-container {
