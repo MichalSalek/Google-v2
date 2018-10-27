@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "bootstrap": "^4.1.3",
+    "css-loader": "^1.0.0",
+    "style-loader": "^0.23.1",
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "html-webpack-plugin": "^3.2.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "name": "google",
+  "version": "0.1.0",
+  "description": "Kopia Google",
+  "main": "",
+  "repository": "",
+  "author": "Michał Sałek",
+  "license": "MIT",
+  "private": false
+}

@@ -1,0 +1,63 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+body {
+  min-height: 100vh;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.font-13px {
+  font-size: 13px;
+}
+
+.font-14px {
+  font-size: 14px;
+}
+
+.hover-underline:hover {
+  text-decoration: underline;
+}
+
+.apps-button {
+  opacity: 0.65;
+  height: 30px;
+  width: 20px;
+}
+
+.apps-button:hover {
+  opacity: 0.95;
+  cursor: pointer;
+}
+
+.input-bar {
+  width: 484px;
+}
+
+.text-input {
+  outline-width: 0px;
+  padding: 5px 15px;
+  width: 363px;
+}
+
+.buttons-container {
+  padding: 5px;
+}
+
+.buttons-container > a {
+  margin: 0px 15px;
+}
+
+.text-input-button:hover {
+  -webkit-filter: brightness(80%);
+  filter: brightness(80%);
+  cursor: pointer;
+}
+
+.voice-button {
+  width: 15px;
+  height: auto;
+}
